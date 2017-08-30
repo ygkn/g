@@ -7,6 +7,7 @@ Simple &amp; fast alternative git command.
 
 - Support **every** environment.
 - Indexing & commit & push with **ONE** command.
+- Depends git command **ONLY**
 
 ## Installation
 Put this to *rc file of your shell.
