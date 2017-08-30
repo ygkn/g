@@ -13,7 +13,7 @@ Simple &amp; fast alternative git command.
 Put this to *rc file of your shell.
 
 ```sh
-alias g="git add .; git commit; git push"
+alias g="git add -A; git commit; git push"
 ```
 
 ## LICENSE
