@@ -5,9 +5,9 @@ Simple &amp; fast alternative git command.
 
 ## Features
 
-- Support **ANY** environment where you can use git.
+- Support **ANY** environment if you can use git.
 - Indexing & commit & push with **ONE** command.
-- Depends git command **ONLY**
+- Depends on git command **ONLY**.
 
 ## Installation
 Put this to *rc file of your shell.
