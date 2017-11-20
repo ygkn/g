@@ -16,5 +16,12 @@ Put this to *rc file of your shell.
 alias g="git add -A; git commit; git push"
 ```
 
+## Using
+
+1. `cd /path/to/your/repo`
+1. `g`
+1. input commit message
+1. finish!
+
 ## LICENSE
 Written by [THE SUSHI-WARE LICENSE](https://github.com/MakeNowJust/sushi-ware)
