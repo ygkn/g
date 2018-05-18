@@ -10,10 +10,17 @@ Simple &amp; fast alternative git command.
 - Depends on git command **ONLY**.
 
 ## Installation
+
 Put this to *rc file of your shell.
 
 ```sh
 alias g="git add -A; git commit; git push"
+```
+
+or
+
+```sh
+./install.sh
 ```
 
 ## Using
