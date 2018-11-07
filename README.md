@@ -14,7 +14,7 @@ Simple &amp; fast alternative git command.
 Put this to *rc file of your shell.
 
 ```sh
-alias g="git add -A; git commit; git push origin `git symbolic-ref --short HEAD`"
+alias g="git add -A; git commit; git push origin \`git symbolic-ref --short HEAD\`"
 ```
 
 or
